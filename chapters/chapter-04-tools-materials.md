@@ -307,4 +307,12 @@ Now that you know what materials you need, you're ready to move into the constru
 
 ---
 
-*"The only way to do great work is to love what you do." — Steve Jobs*
+**You're now equipped with the knowledge to gather your materials! 🛠️🌱⚡**
+
+---
+
+**[⬅️ Previous Chapter: The Theory Behind Electroculture (Made Simple)](chapter-03-theory.md) | [Next Chapter: Building Antennae Step by Step ➡️](chapter-05-building-antennae.md)**
+
+---
+
+*"The best tools are the ones you know how to use." — Unknown*

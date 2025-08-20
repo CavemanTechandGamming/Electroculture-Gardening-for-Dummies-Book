@@ -431,4 +431,8 @@ Congratulations! You now have comprehensive troubleshooting skills for electrocu
 
 ---
 
+**[⬅️ Previous Chapter: Safety & Best Gardening Practices](chapter-12-safety-practices.md) | [Next Chapter: Scaling Up & Future Technology ➡️](chapter-14-scaling-future.md)**
+
+---
+
 *"The only way to do great work is to love what you do." — Steve Jobs*

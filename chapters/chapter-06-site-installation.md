@@ -401,4 +401,12 @@ Congratulations! You've now learned how to choose the perfect site for your elec
 
 ---
 
+**You're ready to install your antennae in the perfect location! 📍🌱⚡**
+
+---
+
+**[⬅️ Previous Chapter: Building Antennae Step by Step](chapter-05-building-antennae.md) | [Next Chapter: Running a Small-Scale Electroculture Experiment ➡️](chapter-07-experiments.md)**
+
+---
+
 *"The best time to plant a tree was 20 years ago. The second best time is now." — Chinese Proverb*

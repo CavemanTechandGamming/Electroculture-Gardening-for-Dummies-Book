@@ -441,4 +441,12 @@ Congratulations! You now have comprehensive knowledge of observation and data lo
 
 ---
 
+**You're now equipped with powerful observation and documentation skills! 📊🌱⚡**
+
+---
+
+**[⬅️ Previous Chapter: Running a Small-Scale Electroculture Experiment](chapter-07-experiments.md) | [Next Chapter: Anecdotes & Real-World Stories ➡️](chapter-09-stories.md)**
+
+---
+
 *"The only way to do great work is to love what you do." — Steve Jobs*

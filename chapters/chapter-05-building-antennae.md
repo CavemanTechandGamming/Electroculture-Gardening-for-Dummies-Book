@@ -340,4 +340,12 @@ Congratulations! You've now learned how to build several types of electroculture
 
 ---
 
+**You now have the skills to build your own electroculture antennae! 🔨🌱⚡**
+
+---
+
+**[⬅️ Previous Chapter: Tools & Materials for DIY Electroculture](chapter-04-tools-materials.md) | [Next Chapter: Choosing Your Site & Installing Antennae ➡️](chapter-06-site-installation.md)**
+
+---
+
 *"The only way to do great work is to love what you do." — Steve Jobs*

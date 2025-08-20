@@ -360,4 +360,8 @@ Congratulations! You've now learned from the real-world experiences of electrocu
 
 ---
 
+**[⬅️ Previous Chapter: Observation & Data Logging](chapter-08-observation.md) | [Next Chapter: Healthy Skepticism & Risks ➡️](chapter-10-skepticism-risks.md)**
+
+---
+
 *"The only way to do great work is to love what you do." — Steve Jobs*

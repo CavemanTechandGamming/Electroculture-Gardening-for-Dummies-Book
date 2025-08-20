@@ -156,4 +156,8 @@ In the next chapter, we'll dive into the fascinating history of electroculture�
 
 ---
 
+**[⬅️ Back to Table of Contents](../README.md) | [Next Chapter: A Spark in Time: The History of Electroculture ➡️](chapter-02-history.md)**
+
+---
+
 *"The garden suggests there might be a place where we can meet nature halfway." — Michael Pollan*

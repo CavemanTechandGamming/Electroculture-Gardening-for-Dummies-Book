@@ -402,4 +402,8 @@ Congratulations! You now have a balanced, skeptical perspective on electrocultur
 
 ---
 
+**[⬅️ Previous Chapter: Anecdotes & Real-World Stories](chapter-09-stories.md) | [Next Chapter: Creative Variations & Advanced Designs ➡️](chapter-11-advanced-designs.md)**
+
+---
+
 *"The good thing about science is that it's true whether or not you believe in it." — Neil deGrasse Tyson*

@@ -432,4 +432,8 @@ Congratulations! You now have knowledge of advanced electroculture designs that 
 
 ---
 
+**[⬅️ Previous Chapter: Healthy Skepticism & Risks](chapter-10-skepticism-risks.md) | [Next Chapter: Safety & Best Gardening Practices ➡️](chapter-12-safety-practices.md)**
+
+---
+
 *"The only way to do great work is to love what you do." — Steve Jobs*

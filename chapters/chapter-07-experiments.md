@@ -439,4 +439,8 @@ Congratulations! You now have a solid foundation for running scientific electroc
 
 ---
 
-*"The good thing about science is that it's true whether or not you believe in it." — Neil deGrasse Tyson*
+**[⬅️ Previous Chapter: Choosing Your Site & Installing Antennae](chapter-06-site-installation.md) | [Next Chapter: Observation & Data Logging ➡️](chapter-08-observation.md)**
+
+---
+
+*"The only way to do great work is to love what you do." — Steve Jobs*

@@ -390,4 +390,8 @@ Congratulations! You now have a comprehensive understanding of how to scale up y
 
 ---
 
+**[⬅️ Previous Chapter: Troubleshooting Common Problems](chapter-13-troubleshooting.md) | [Next Chapter: Your Electroculture Journey Continues ➡️](chapter-15-conclusion.md)**
+
+---
+
 *"The best way to predict the future is to invent it." — Alan Kay*

@@ -386,4 +386,8 @@ Congratulations! You now have comprehensive knowledge of safety considerations a
 
 ---
 
+**[⬅️ Previous Chapter: Creative Variations & Advanced Designs](chapter-11-advanced-designs.md) | [Next Chapter: Troubleshooting Common Problems ➡️](chapter-13-troubleshooting.md)**
+
+---
+
 *"The only way to do great work is to love what you do." — Steve Jobs*

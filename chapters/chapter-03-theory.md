@@ -253,3 +253,13 @@ In the next chapter, we'll cover the tools and materials you'll need to get star
 ---
 
 *"The good thing about science is that it's true whether or not you believe in it." — Neil deGrasse Tyson*
+
+**Your understanding of electroculture's scientific foundation is growing! 🔬🌱⚡**
+
+---
+
+**[⬅️ Previous Chapter: A Spark in Time: The History of Electroculture](chapter-02-history.md) | [Next Chapter: Tools & Materials for DIY Electroculture ➡️](chapter-04-tools-materials.md)**
+
+---
+
+*"Science is not only compatible with spirituality; it is a profound source of spirituality." — Carl Sagan*
