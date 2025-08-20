@@ -70,6 +70,16 @@ Electroculture represents a sustainable, low-cost approach to gardening that har
 
 ---
 
+## 📖 **Quick Reference & Resources**
+
+### [📚 Glossary](appendix/glossary.md)
+**Your Quick Reference Guide** - Comprehensive glossary of electroculture terms and concepts with simple definitions and chapter references.
+
+### [🔍 Index](appendix/index.md)
+**Your Complete Navigation Guide** - Cross-reference index organized by topic area, skill level, and quick navigation links to help you find information fast.
+
+---
+
 ## 🎯 Who This Book Is For
 
 - 🌱 **Beginner gardeners** curious about electroculture
